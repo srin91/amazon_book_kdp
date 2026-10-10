@@ -1,0 +1,4 @@
+2026-10-09T09:00:01Z INFO service started
+2026-10-09T09:01:15Z WARN request latency 1800ms route=/search
+2026-10-09T09:02:20Z ERROR upstream timeout route=/search request_id=sample-001
+2026-10-09T09:03:11Z INFO health probe success

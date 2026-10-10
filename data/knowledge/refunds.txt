@@ -1,0 +1,3 @@
+Refund requests are reviewed by a human. Customers should provide an order ID. Approval depends on the store's current policy and the order circumstances; this sample does not define eligibility.
+
+The support team does not ask for a password or one-time code by email. For an account issue, use the official account recovery channel.

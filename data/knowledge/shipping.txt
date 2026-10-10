@@ -1,0 +1,3 @@
+For delivery questions, a customer should provide the order ID. A team member verifies carrier tracking before promising a delivery date.
+
+The sample service desk accepts enquiries on business days. This educational corpus has no live order database.
